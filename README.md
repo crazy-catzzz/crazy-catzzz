@@ -1,0 +1,5 @@
+- 👋 Hi! I’m @miao704g, a still-not-a-programmer who uses GitHub to archive tests and even some actually released stuff.
+- 👀 I’m interested in learning new programming languages and ***drawing***
+- 🌱 I’m currently learning Python 3.9 
+- 💞️ I’m looking to collaborate on probably noMS-Volume-Activator since it would be written in Python and I'm really bad at it
+- 📫 How to reach me... ***you can't***
