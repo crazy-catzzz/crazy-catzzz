@@ -1,4 +1,4 @@
-#crazy-catzzz
+# crazy-catzzz
 Hi! I'm crazy-catzzz.
 
 I'm a student who mainly uses C++ and JS in his projects.
