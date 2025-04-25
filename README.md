@@ -21,8 +21,10 @@ int main() {
 
 Highlights:
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=crazy-catzzz&repo=kebax&show_icons=true)](https://github.com/crazy-catzzz/kebax)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=crazy-catzzz&repo=botty&show_icons=true)](https://github.com/crazy-catzzz/botty)
+<div align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=crazy-catzzz&repo=kebax&show_icons=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=crazy-catzzz&repo=botty&show_icons=true" />
+</div>
 
 
 <details>
