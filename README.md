@@ -1,3 +1,6 @@
+<img align=center style="overflow: hidden;" src="https://github.com/crazy-catzzz/crazy-catzzz/blob/main/banner.png?raw=true"/>
+
+
 ## Hey there!
 ```c
 #include <stdio.h>
