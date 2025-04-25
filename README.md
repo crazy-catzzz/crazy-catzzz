@@ -6,7 +6,7 @@
 
 ### Random bullet point list 😎
 - 🔭 I’m currently working on my portfolio! 
-- 🌱 I’m currently learning Bootstrap 5 
+- 🌱 I’m currently learning low-level-programming
 - 😄 Pronouns: he/him 
 - ⚡ Fun fact: I absolutely HATE seagulls 
 
