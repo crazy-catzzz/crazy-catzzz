@@ -32,8 +32,8 @@ Highlights:
   <summary>GitHub stats</summary>
 
   <div align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=crazy-catzzz&layout=compact&count_private=true" />
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=crazy-catzzz&layout=compact&hide_title=1" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=crazy-catzzz&layout=compact&count_private=true" href="https://github.com/crazy-catzzz/kebax"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=crazy-catzzz&layout=compact&hide_title=1" href="https://github.com/crazy-catzzz/botty"/>
   </div>
   <br/>
 </details>
