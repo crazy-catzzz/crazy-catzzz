@@ -22,8 +22,8 @@ int main() {
 Highlights:
 
 <div align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=crazy-catzzz&repo=kebax&show_icons=true" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=crazy-catzzz&repo=botty&show_icons=true" />
+  <a align="center" href="https://github.com/crazy-catzzz/kebax" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=crazy-catzzz&repo=kebax&show_icons=true"/></a>
+  <a align="center" href="https://github.com/crazy-catzzz/botty" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=crazy-catzzz&repo=botty&show_icons=true"/></a>
 </div>
 <br/>
 
@@ -32,8 +32,8 @@ Highlights:
   <summary>GitHub stats</summary>
 
   <div align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=crazy-catzzz&layout=compact&count_private=true" href="https://github.com/crazy-catzzz/kebax"/>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=crazy-catzzz&layout=compact&hide_title=1" href="https://github.com/crazy-catzzz/botty"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=crazy-catzzz&layout=compact&count_private=true"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=crazy-catzzz&layout=compact"/>
   </div>
   <br/>
 </details>
